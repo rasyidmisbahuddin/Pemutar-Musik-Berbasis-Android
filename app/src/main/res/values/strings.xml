@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Songbird</string>
+    <string name="judul">SongBird</string>
+    <string name="logout">Logout</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="cari">Cari</string>
+    <string name="kesukaan">Kesukaan</string>
+    <string name="tentang_text">Aplikasi ini digunakan untuk mendengarkan musik dengan cara kerja membaca file dan memainkan musik dari internal storage</string>
+    <string name="pemberitahuan">Keluar dari aplikasi ini?</string>
+    <string name="peringatanlgout">Logout</string>
+    <string name="ok">OK</string>
+    <string name="keluar">Keluar</string>
+    <string name="waktu_mulai">0.00</string>
+    <string name="waktu_selesai">0.00</string>
+    <string name="cari_hint">Judul Lagu</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Iya</string>
+    <string name="hapus">Hapus</string>
+    <string name="hapus_text">Apakah anda mau menghapus lagu ini?</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Kata Sandi</string>
+    <string name="tdk_terdaftar">Belum Mempunyai akun?</string>
+    <string name="register">REGISTER</string>
+    <string name="ulg_password">Ulangi Kata Sandi</string>
+    <string name="sdh_terdaftar">Sudah terdaftar?</string>
+    <string name="register_msg">Register terlebih dahulu sebelum memulai aplikasi</string>
+    <string name="login_msg">Masuk sebelum memulai aplikasi</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimaryDark">#AE332A</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="ActionBar"
+        parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">#F44336</item>
+        <item name="background">@color/colorAccent</item>
+    </style>
+
+</resources>

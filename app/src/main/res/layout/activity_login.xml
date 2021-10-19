@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.projectuas.songbird.LoginActivity"
+    android:orientation="vertical"
+    android:id="@+id/container"
+    android:background="@drawable/loginbg"
+    android:gravity="center_horizontal">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <ImageView
+        android:layout_width="126dp"
+        android:layout_height="124dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/headseticon" />
+
+    <TextView
+        android:id="@+id/judulapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/delius_swash_caps"
+        android:gravity="center"
+        android:text="@string/judul"
+        android:textColor="#FFFFFF"
+        android:textSize="50sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/registerloginpsn"
+        android:layout_width="244dp"
+        android:layout_height="50dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center"
+        android:text="@string/login_msg"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="129dp"
+        android:gravity="center_horizontal"
+
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edittext_username"
+            android:layout_width="272dp"
+            android:maxLines="1"
+            android:layout_height="40dp"
+            android:inputType="text"
+            android:layout_marginTop="10dp"
+            android:background="#ffffff"
+            android:hint="@string/username"
+            android:paddingLeft="10dp" />
+
+        <EditText
+            android:id="@+id/edittext_password"
+            android:layout_width="271dp"
+            android:maxLines="1"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="#ffffff"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="#F44336"
+        android:textColor="#ffffff"
+        android:text="@string/login"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textColor="#ffffff"
+            android:text="@string/tdk_terdaftar"/>
+
+        <TextView
+            android:id="@+id/textview_register"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:paddingLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="#F44336"
+            android:text="@string/register"/>
+
+    </LinearLayout>
+</LinearLayout>
