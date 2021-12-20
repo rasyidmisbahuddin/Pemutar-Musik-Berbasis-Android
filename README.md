@@ -1,6 +1,6 @@
 # Pemutar-Musik-Berbasis-Android
 
-<img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app.jpeg" alt="drawing" width="500"/> <img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app2.jpeg" alt="drawing" width="500"/>
+<img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app.jpeg" alt="drawing" width="200"/> <img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app2.jpeg" alt="drawing" width="200"/>
 
 
 
