@@ -1,7 +1,7 @@
 # Pemutar Musik Berbasis Android
-
-<img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app.jpeg" alt="drawing" width="300"/> <img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app2.jpeg" alt="drawing" width="300"/>
-
+<p align="center">
+<img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app.jpeg" alt="drawing" width="400"/> <img src="https://github.com/rasyidmisbahuddin/Pemutar-Musik-Berbasis-Android/blob/main/app2.jpeg" alt="drawing" width="400"/>
+<p/>
 
 
 Aplikasi ini merupakan aplikasi pemutar musik yang dibangun dari Android Studio
